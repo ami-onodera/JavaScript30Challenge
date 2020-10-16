@@ -5,4 +5,5 @@ All applications are made using HTML, CSS and JavaScript only!
 
 ### Check out each app live: 
 Day 1 - [Drum Kit](https://js30-drumkit.vercel.app) <br />
-Day 2- [CSS and JS Clock](https://js30-clock.vercel.app) <br />
+Day 2 - [CSS and JS Clock](https://js30-clock.vercel.app) <br />
+Day 3 - [CSS Variables with JS](https://js30-cssvariables.vercel.app/) </br>
