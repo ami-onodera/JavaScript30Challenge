@@ -2,19 +2,20 @@ html {
   font-size: 10px;
   background: url("https://i.ibb.co/j5y0RTK/concert.jpg") bottom center;
   background-size: cover;
+  min-height: 100vh;
 }
 
 body,
 html {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  font-family: "helvetica", sans-serif;
 }
 
 .keys {
   display: flex;
   flex: 1;
-  min-height: 100vh;
+  min-height: 90vh;
   align-items: center;
   justify-content: center;
 }
@@ -49,4 +50,24 @@ kbd {
   text-transform: uppercase;
   letter-spacing: 0.1rem;
   color: #ffc600;
+}
+
+#byAmi {
+  text-align: center;
+  color: white;
+  font-family: "helvetica", sans-serif;
+  font-weight: 100;
+  font-size: 20px;
+  font-style: italic;
+}
+
+#byAmi a {
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+}
+
+#byAmi a:hover {
+  color: #ffc600;
+  transition: ease-in-out 0.25s;
 }
